@@ -1,4 +1,4 @@
-### Hi there , I am Nursultan 👋 . I am a Software Developer 
+### Hi there , I am Nursultan 👋 . I am a Full-Stack Developer 
 
 <!--
 **NursultanSultan/NursultanSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
